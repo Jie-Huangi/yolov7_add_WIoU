@@ -13,7 +13,7 @@
 python train_aux.py --workers 8 --device 0 --batch-size 16 --data data/coco.yaml --img 1280 1280 --cfg cfg/training/yolov7-w6.yaml --weights '' --name yolov7-w6 --hyp data/hyp.scratch.p6.yaml
 ```
 
-# 2. Reference
+# 3. Reference
 
 - https://github.com/Instinct323/wiou
 - https://blog.csdn.net/qq_55745968/article/details/128888122
